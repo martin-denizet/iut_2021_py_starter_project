@@ -12,6 +12,6 @@ def parse_line(line):
         request='',
         response=0,
         bytes=0,
-        refferer='',
+        referrer='',
         user_agent=''
     )
